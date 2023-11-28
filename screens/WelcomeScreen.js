@@ -4,7 +4,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function WelcomeScreen() {
   return (
-    <SafeAreaView>
+    <SafeAreaView edges={['top']}>
       <Text>Welcome Screen</Text>
     </SafeAreaView>
   );
