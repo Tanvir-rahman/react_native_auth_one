@@ -1,3 +1,7 @@
 export const themeColors = {
-  bg: '#877dfa',
+  bg: '#fff',
+  primary: '#1F41BB',
+  PrimaryLight: '#F1F4FF',
+  primaryLighter: '#F8F9FF',
+  grey: '#ECECEC',
 };
